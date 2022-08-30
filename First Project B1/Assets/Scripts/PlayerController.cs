@@ -18,6 +18,7 @@ public class PlayerController : MonoBehaviour
         vInput = Input.GetAxis("Vertical");
 
         // Move the character around
+
         transform.Rotate(Vector3.up, rotSpeed * hInput * Time.deltaTime);        
         //Rotate Left and Right 
 
