@@ -14,7 +14,7 @@ public class PlayerAttack : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(attackDelay <= 0 )
+        if(attackDelay <= 0)
         {
             if(Input.GetKey(KeyCode.Space))
             {
@@ -26,12 +26,12 @@ public class PlayerAttack : MonoBehaviour
                 }
             }
 
-            attackDelay = startDelay;
+            attackDelay = startDelay; 
 
         }
         else
         {
-            attackDelay -= Time.deltaTime;
+            attackDelay -= Time.deltaTime; // Count Down
         }
     }
 

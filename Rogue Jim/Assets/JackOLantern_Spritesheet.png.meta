@@ -1,0 +1,916 @@
+fileFormatVersion: 2
+guid: b7a9c08d183c64ae5bd3a74102395a0c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 825
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455601fc30db34ec3a5684c92972bd05
+      internalID: -904307254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 825
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dac66c059f9482fac8362ef2264f87
+      internalID: 481251647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 825
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982b0def8c3b44912b27b808a9137a1b
+      internalID: 356222133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 825
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3bc8822a49a142b6b41d8d72a85c54f
+      internalID: 17662713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 825
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c365f67013cb04f698f103012114ec04
+      internalID: 1401702338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 825
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550bc97868a304464b61d87ad0502102
+      internalID: 620091742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 665
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751b32a0910054e76b160e752baa0b41
+      internalID: 2052838270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 665
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2aca5cfed2d4eb1862ef7ab3ec0f48
+      internalID: 247239611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 665
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6a9a18bb1fb4e20ae73206cb28f7a5
+      internalID: -1267611993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 665
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d8567d60ab9454c80e7d6a65e81cb3
+      internalID: -57289228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 665
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04312480ac56e427088532888da466a8
+      internalID: -1616827326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 665
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e324e6b135aa94461bf2252cc982a97d
+      internalID: -1537547428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 505
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ada4c70881f74fed88b6f980815b7b9
+      internalID: 1731310145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 505
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61e4f6d07ab4491a99bd0470787cf0e
+      internalID: -442683453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 505
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d4686eb22a094e4fb958e29ceeb81fd
+      internalID: -316877125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 505
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1398f1257ccb404ea9be375f0237628
+      internalID: -827083117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 505
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28cf3d3ec7444225a697e51316c0f37
+      internalID: 982256618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 505
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399040eff368b46b1b38bff43ea5a236
+      internalID: 121354918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 345
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f8cbebf923645b6888352a1c0f356a
+      internalID: -2008196044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 345
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13540783a6ac14427ab2f42e24781af5
+      internalID: 1158436702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 345
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47ad4d706e1fc473581550b6c427592c
+      internalID: 791414495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 345
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c51628a2b06c413e8030d073f1022ef
+      internalID: 647599357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 345
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9304dfb1d643412d9c2295b133c63cc
+      internalID: -1453633632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 345
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 292a95dd8c1c04a21a99706379d871be
+      internalID: -1818610488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 185
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a837d893d58b246b291d16bf4fef87ae
+      internalID: -1691721031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 185
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf93319e5a9b346e3972fcb765d6416e
+      internalID: 1971360667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 185
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50bcf650294124bde96f10abb0a91b7b
+      internalID: 1785094558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 185
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69033da113d334e1eb2f9bb14aa4a3c4
+      internalID: -1239090659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 185
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53322acd47f47490999ddebd65cc41e2
+      internalID: 1728509934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 185
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e328e6a7aadcd4ebca35a876141cbd78
+      internalID: -1440720207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 25
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f3f9c4f5dfd4b649f5e10ed6753e2e
+      internalID: 2060038817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 25
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b552e965925a74d05be13b2ee163c0d3
+      internalID: 1641720593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 25
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59adcee4933a441ee868dcfc18b8890c
+      internalID: -102848945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 25
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ce2e41de99e4e08aef0c810b377c9f
+      internalID: 1344946678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: JackOLantern_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 25
+        width: 140
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27573f11bb2de4037b82683c7d3bbd8e
+      internalID: -840491051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      JackOLantern_Spritesheet_25: 1971360667
+      JackOLantern_Spritesheet_4: 1401702338
+      JackOLantern_Spritesheet_7: 247239611
+      JackOLantern_Spritesheet_14: -316877125
+      JackOLantern_Spritesheet_34: -840491051
+      JackOLantern_Spritesheet_19: 1158436702
+      JackOLantern_Spritesheet_29: -1440720207
+      JackOLantern_Spritesheet_3: 17662713
+      JackOLantern_Spritesheet_31: 1641720593
+      JackOLantern_Spritesheet_23: -1818610488
+      JackOLantern_Spritesheet_17: 121354918
+      JackOLantern_Spritesheet_21: 647599357
+      JackOLantern_Spritesheet_16: 982256618
+      JackOLantern_Spritesheet_1: 481251647
+      JackOLantern_Spritesheet_5: 620091742
+      JackOLantern_Spritesheet_8: -1267611993
+      JackOLantern_Spritesheet_12: 1731310145
+      JackOLantern_Spritesheet_27: -1239090659
+      JackOLantern_Spritesheet_20: 791414495
+      JackOLantern_Spritesheet_10: -1616827326
+      JackOLantern_Spritesheet_6: 2052838270
+      JackOLantern_Spritesheet_15: -827083117
+      JackOLantern_Spritesheet_32: -102848945
+      JackOLantern_Spritesheet_2: 356222133
+      JackOLantern_Spritesheet_33: 1344946678
+      JackOLantern_Spritesheet_9: -57289228
+      JackOLantern_Spritesheet_0: -904307254
+      JackOLantern_Spritesheet_24: -1691721031
+      JackOLantern_Spritesheet_30: 2060038817
+      JackOLantern_Spritesheet_11: -1537547428
+      JackOLantern_Spritesheet_18: -2008196044
+      JackOLantern_Spritesheet_13: -442683453
+      JackOLantern_Spritesheet_22: -1453633632
+      JackOLantern_Spritesheet_26: 1785094558
+      JackOLantern_Spritesheet_28: 1728509934
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
