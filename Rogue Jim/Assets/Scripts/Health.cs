@@ -11,7 +11,8 @@ public class Health : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-       currentHealth = maxHealth; 
+       currentHealth = maxHealth;//Set current health to max health 
+       Time.timeScale = 1f;
     }
 
     // Update is called once per frame
@@ -22,18 +23,22 @@ public class Health : MonoBehaviour
 
     public void TakeDamage(int dmgAmount)
     {
-        currentHealth -= dmgAmount;
+        currentHealth -= dmgAmount;// Take away a certain amount of health 
+        Debug.Log("Players Health = "+ currentHealth);
 
-        if(currentHealth <= 0)
+        if(currentHealth <= 0) // Check to see if the player has expired
         {
-            Destroy(gameObject,deathDelay);
+            Debug.Log("Player has Died! Game Over!");
+            Time.timeScale = 0f;
+            //Destroy(gameObject,deathDelay);
         }
     }
+    
     public void AddHealth(int healAmount)
     {
         currentHealth += healAmount;
 
-        if(currentHealth >= maxHealth)
+        if(currentHealth >= maxHealth)// Check to make sure currentHealth does not exceed max health
         {
             currentHealth = maxHealth;
         }
