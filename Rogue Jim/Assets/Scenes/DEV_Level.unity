@@ -494,6 +494,7 @@ GameObject:
   - component: {fileID: 900289479}
   - component: {fileID: 900289480}
   - component: {fileID: 900289481}
+  - component: {fileID: 900289482}
   m_Layer: 0
   m_Name: Goblin
   m_TagString: Untagged
@@ -632,6 +633,21 @@ MonoBehaviour:
   retreatDistance: 2
   startDelay: 1.5
   projectile: {fileID: 5525306590362021403, guid: beb730afe0e934a668078e36386e5d42, type: 3}
+--- !u!114 &900289482
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 900289476}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 20985a82b51e048118891e9d2e6bbe91, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHealth: 3
+  currentHealth: 0
+  deathDelay: 1
 --- !u!1 &959196721
 GameObject:
   m_ObjectHideFlags: 0
